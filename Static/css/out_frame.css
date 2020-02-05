@@ -1,0 +1,84 @@
+/*
+ The out frame
+*/
+#main_interface{
+    width: 100%;
+	height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(139, 139, 139);
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+/*
+ filter condition selection
+*/
+#top_frame{
+    height: 9%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+
+border-style: solid;
+border-width: 5px;
+
+#top_line_frame{
+    height: 1%;
+    width: 100%;
+    position: absolute;
+    top: 9%;
+    left: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+}
+#mid_frame{
+    height: 80%;
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    left: 0;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+#bot_frame{
+    height: 7%;
+    width: 100%;
+    position: absolute;
+    top: 90%;
+    left: 0;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+#bot_copyright_frame{
+    height: 3%;
+    width: 100%;
+    position: absolute;
+    top: 97%;
+    left: 0;
+    background-color: rgb(147, 194, 136);
+    overflow-x: hidden;
+}
+#mid_left_frame{
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+#mid_main_frame{
+    height: 100%;
+    width: 80%;
+    position: absolute;
+    top: 0;
+    left: 20%;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
