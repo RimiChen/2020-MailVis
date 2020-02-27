@@ -162,7 +162,7 @@ export function drawAxis(parent_frame, index, width, top, left, z, color, number
     parent.appendChild(canvas);
 }
 
-function getRandomColor() {
+export function getRandomColor() {
     var letters = '0123456789ABCDEF';
     var color = '#';
     for (var i = 0; i < 6; i++) {
@@ -194,8 +194,10 @@ function drawLine(parent_frame, index, top, left, z, color){
 
 }
 
-export function drawBlock(parent_frame, labelList, title, width, height, z, currentIndex, clickCallBack, callBackArgs){
+export function drawBlock(parent_frame, labelList, max_number, number_list, color, title, width, height, z, currentIndex, clickCallBack, callBackArgs){
 
+    //console.log(labelList);
+    //console.log(number_list);
     var newDiv = document.createElement("div");
     newDiv.id = "div"+currentIndex;
     //console.log(newDiv.id);
@@ -242,9 +244,10 @@ export function drawBlock(parent_frame, labelList, title, width, height, z, curr
     }
     //add bars
 //drawClickableCanvas(parent_frame, index, width, height, top, left, z, color, clickCallBack, callBackArgs)
-    var color = getRandomColor();
+    //var color = getRandomColor();
     for(var i = 0; i <number; i++){
-        var len = Math.floor(Math.random() * 100);
+        //var len = Math.floor(Math.random() * 100);
+        var len = (height-75)*number_list[i]/max_number;
         drawClickableCanvas(newDiv.id, currentIndex , slotWidth/2, len, newDiv_top+axisHeight, i*slotWidth+(slotWidth/2)-(slotWidth/4)+offset, 2, color, testFunction, []); 
         currentIndex = currentIndex + 1;
     }
@@ -256,7 +259,7 @@ export function drawBlock(parent_frame, labelList, title, width, height, z, curr
     };
 }
 
-export function drawFoldBlock(parent_frame, labelList, barList, width, height, z, currentIndex, clickCallBack, callBackArgs){
+export function drawFoldBlock(parent_frame, labelList, barList, numberList, width, height, z, currentIndex, clickCallBack, callBackArgs){
 
     var newDiv = document.createElement("div");
     newDiv.id = "div"+currentIndex;
@@ -309,7 +312,8 @@ export function drawFoldBlock(parent_frame, labelList, barList, width, height, z
         
         var color = getRandomColor();
         for(var i = 0; i <number; i++){
-            var len = Math.floor(Math.random() * 100);
+            //var len = Math.floor(Math.random() * 100);
+            var len = (height-75)*numberList[j][i]/21000;
             var barWidth =  slotWidth/barList.length;
             drawClickableCanvas(newDiv.id, currentIndex , barWidth, len, newDiv_top+axisHeight, i*slotWidth+offset+barWidth*j, 2, color, testFunction, []); 
             currentIndex = currentIndex + 1;

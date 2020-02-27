@@ -1,0 +1,4323 @@
+[
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 944743860
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 944744280
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 944834760
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 945181920
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 945271980
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 945410760
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 945699420
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "mark.taylor@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 945787860
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "mark.taylor@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 945867600
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 946468320
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 946998900
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947139000
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947165940
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947254440
+    },
+    {
+        "receiver": [
+            "sshackl@msn.com"
+        ],
+        "sender": "sara.shackleton@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "2007_in_music",
+            "consumer_confidence",
+            "dow_jones_industrial_average"
+        ],
+        "time": 947258280
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947515740
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947655360
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947685600
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947772420
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 947857620
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 948117780
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 948287220
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 948378300
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 948693360
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 948780540
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 948894600
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 948983040
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 949327920
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 949414140
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 949502640
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 949644240
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "mark.taylor@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 949675560
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 950105220
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 950247900
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.4389,
+        "tags": [
+            "consumer_confidence",
+            "coupon",
+            "credit_card"
+        ],
+        "time": 950273760
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 950536800
+    },
+    {
+        "receiver": [
+            "mark.taylor@enron.com",
+            "william.bradford@enron.com",
+            "debbie.brackett@enron.com",
+            "rod.nelson@enron.com",
+            "david.weekes@enron.com"
+        ],
+        "sender": "bryan.seyfried@enron.com",
+        "sentiment": 0.368,
+        "tags": [
+            "business_case",
+            "capacity_planning",
+            "consumer_confidence"
+        ],
+        "time": 950636340
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 950767380
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 950800080
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 950880000
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 951288300
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 951803880
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 951890220
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 951975780
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 952062600
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 952340400
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 952354500
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 952441980
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 952580460
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 952667220
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 952954320
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 953039520
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 953275620
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 953301540
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 953613660
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com",
+            "david.minns@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 953787240
+    },
+    {
+        "receiver": [
+            "mark.taylor@enron.com",
+            "leslie.hansen@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 954130680
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com",
+            "david.minns@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 954217980
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com",
+            "david.minns@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 954250680
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 954391020
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com",
+            "david.minns@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 954474840
+    },
+    {
+        "receiver": [
+            "jeffrey.hodge@enron.com",
+            "alan.aronowitz@enron.com",
+            "elizabeth.sager@enron.com",
+            "david.portz@enron.com",
+            "leslie.hansen@enron.com",
+            "harry.collins@enron.com",
+            "stacy.dickson@enron.com",
+            "david.minns@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.3818,
+        "tags": [
+            "3-d_secure",
+            "alipay",
+            "consumer_confidence"
+        ],
+        "time": 954775200
+    },
+    {
+        "receiver": [
+            "tom.moran@enron.com"
+        ],
+        "sender": "tana.jones@enron.com",
+        "sentiment": 0.6289,
+        "tags": [
+            "canada_revenue_agency",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 956128620
+    },
+    {
+        "receiver": [
+            "aimee.lannou@enron.com"
+        ],
+        "sender": "daren.farmer@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "capitalization-weighted_index",
+            "consumer_confidence",
+            "consumer_price_index"
+        ],
+        "time": 958120680
+    },
+    {
+        "receiver": [
+            "tana.jones@enron.com"
+        ],
+        "sender": "leslie.hansen@enron.com",
+        "sentiment": 0.5267,
+        "tags": [
+            "business",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 959146200
+    },
+    {
+        "receiver": [
+            "susan.scott@enron.com",
+            "tk.lohman@enron.com",
+            "steven.harris@enron.com",
+            "vernon.mercaldo@enron.com",
+            "lindy.donoho@enron.com",
+            "michelle.lokay@enron.com",
+            "lorraine.lindberg@enron.com",
+            "lee.huber@enron.com",
+            "kevin.hyatt@enron.com",
+            "jeffery.fawcett@enron.com",
+            "eileen.peebles@enron.com",
+            "christine.stokes@enron.com"
+        ],
+        "sender": "lorna.brennan@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "august_7",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 962020680
+    },
+    {
+        "receiver": [
+            "mike.roberts@enron.com"
+        ],
+        "sender": "vince.kaminski@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "breakpoint_(meteorology)",
+            "bureau_of_meteorology",
+            "consumer_confidence"
+        ],
+        "time": 964588800
+    },
+    {
+        "receiver": [
+            "steven@iepa.com"
+        ],
+        "sender": "jeff.dasovich@enron.com",
+        "sentiment": 0.4404,
+        "tags": [
+            "attack_aircraft",
+            "average_cost",
+            "consumer_confidence"
+        ],
+        "time": 968403480
+    },
+    {
+        "receiver": [
+            "yuan.tian@enron.com",
+            "sarabeth.smith@enron.com",
+            "chuck.wilkinson@enron.com",
+            "donna.scott@enron.com",
+            "mike.barry@enron.com",
+            "jeff.nielsen@enron.com",
+            "tim.johanson@enron.com",
+            "tk.lohman@enron.com",
+            "theresa.branney@enron.com",
+            "rick.dietz@enron.com",
+            "david.marye@enron.com",
+            "steven.harris@enron.com",
+            "michael.ratner@enron.com",
+            "jim.wiltfong@enron.com",
+            "dave.neubauer@enron.com",
+            "steven.january@enron.com",
+            "steve.klimesh@enron.com",
+            "reyna.cabrera@enron.com",
+            "rockey.storie@enron.com",
+            "lee.ferrell@enron.com",
+            "vernon.mercaldo@enron.com",
+            "john.dushinske@enron.com",
+            "kent.miller@enron.com",
+            "martha.janousek@enron.com",
+            "sheila.nacey@enron.com",
+            "lynn.blair@enron.com",
+            "chris.sebesta@enron.com",
+            "courtney.barker@enron.com",
+            "frank.semin@enron.com",
+            "michael.bodnar@enron.com",
+            "kay.threet@enron.com",
+            "craig.buehler@enron.com",
+            "bill.fowler@enron.com",
+            "drew.fossum@enron.com",
+            "stephen.herber@enron.com",
+            "jo.williams@enron.com",
+            "sue.neville@enron.com",
+            "bryan.reinecke@enron.com",
+            "doug.aschwege@enron.com",
+            "lindy.donoho@enron.com",
+            "john.goodpasture@enron.com",
+            "kimberly.watson@enron.com",
+            "lon.stanton@enron.com",
+            "laura.lantefield@enron.com",
+            "rob.wilson@enron.com",
+            "michelle.lokay@enron.com",
+            "bob.burleson@enron.com",
+            "lorraine.lindberg@enron.com",
+            "steve.gilbert@enron.com",
+            "ld.stephens@enron.com",
+            "larry.pavlou@enron.com",
+            "allen.cohrs@enron.com",
+            "penny.mccarran@enron.com",
+            "don.powell@enron.com",
+            "stephanie.korbelik@enron.com",
+            "lisa.valley@enron.com",
+            "bob.stevens@enron.com",
+            "larry.swett@enron.com",
+            "loren.penkava@enron.com",
+            "karen.lagerstrom@enron.com",
+            "ken.powers@enron.com",
+            "joni.bollinger@enron.com",
+            "janet.bowers@enron.com",
+            "john.fiscus@enron.com",
+            "steve.thomas@enron.com",
+            "frank.oldenhuis@enron.com",
+            "john.williams@enron.com",
+            "julie.mccoy@enron.com",
+            "roger.westfall@enron.com",
+            "steve.weller@enron.com",
+            "judy.beck@enron.com",
+            "ken.anderson@enron.com",
+            "dana.jones@enron.com",
+            "sean.bolks@enron.com",
+            "robert.mason@enron.com",
+            "gary.choquette@enron.com",
+            "kevin.hyatt@enron.com",
+            "carolyn.descoteaux@enron.com",
+            "morgan.gottsponer@enron.com",
+            "robert.johnson@enron.com",
+            "mike.mcgowan@enron.com",
+            "michel.nelson@enron.com",
+            "jeffery.fawcett@enron.com",
+            "michael.stage@enron.com",
+            "tony.perry@enron.com",
+            "julia.white@enron.com",
+            "mike.ullom@enron.com",
+            "miriam.martinez@enron.com",
+            "mary.miller@enron.com",
+            "eileen.peebles@enron.com",
+            "christine.stokes@enron.com",
+            "gary.sova@enron.com",
+            "bill.mangels@enron.com",
+            "sebastian.corbacho@enron.com",
+            "becki.souci@enron.com",
+            "neal.shaw@enron.com",
+            "david.badura@enron.com",
+            "tracy.schwartzkopf@enron.com"
+        ],
+        "sender": "lorna.brennan@enron.com",
+        "sentiment": 0.128,
+        "tags": [
+            "alert",
+            "consumer_confidence",
+            "contingencies"
+        ],
+        "time": 969275340
+    },
+    {
+        "receiver": [
+            "vkaminski@aol.com",
+            "vkamins@enron.com"
+        ],
+        "sender": "vkaminski@aol.com",
+        "sentiment": -0.5753,
+        "tags": [
+            "commodity",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 970375260
+    },
+    {
+        "receiver": [
+            "vkaminski@aol.com"
+        ],
+        "sender": "vince.kaminski@enron.com",
+        "sentiment": -0.128,
+        "tags": [
+            "capacity_factor",
+            "consumer_confidence",
+            "data_center"
+        ],
+        "time": 974467560
+    },
+    {
+        "receiver": [
+            "sivy@listserv.pathfinder.com"
+        ],
+        "sender": "sivy@listserv.pathfinder.com",
+        "sentiment": 0.9953,
+        "tags": [
+            "book_value",
+            "cash_flow",
+            "consumer_confidence"
+        ],
+        "time": 974478240
+    },
+    {
+        "receiver": [
+            "lloyd.will@enron.com",
+            "doug.gilbert-smith@enron.com",
+            "mitch.robinson@enron.com",
+            "drew.tingleaf@enron.com",
+            "clint.dean@enron.com",
+            "madhup.kumar@enron.com",
+            "juan.padron@enron.com",
+            "juan.hernandez@enron.com",
+            "michelle.parks@enron.com",
+            "smith.day@enron.com",
+            "david.portz@enron.com",
+            "thresa.allen@enron.com",
+            "christopher.ahn@enron.com",
+            "ron.mcnamara@enron.com",
+            "bruce.sukaly@enron.com",
+            "lance.cunningham@enron.com",
+            "robin.kittel@enron.com"
+        ],
+        "sender": "mike.curry@enron.com",
+        "sentiment": 0.368,
+        "tags": [
+            "business-to-business",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 974729400
+    },
+    {
+        "receiver": [
+            "alewis@ect.enron.com"
+        ],
+        "sender": "wscfeedback@wallstreetcity.com",
+        "sentiment": 0.9983,
+        "tags": [
+            "capital_market",
+            "consumer_confidence",
+            "corporate_finance"
+        ],
+        "time": 976624200
+    },
+    {
+        "receiver": [
+            "paul.kaufman@enron.com",
+            "jeff.dasovich@enron.com",
+            "sandra.mccubbin@enron.com"
+        ],
+        "sender": "richard.shapiro@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "cogeneration",
+            "consumer_confidence",
+            "demand"
+        ],
+        "time": 978525480
+    },
+    {
+        "receiver": [
+            "don.baughman@enron.com"
+        ],
+        "sender": "ellen.clardy@ipgdirect.com",
+        "sentiment": 0.3612,
+        "tags": [
+            "consumer_confidence",
+            "consumer_price_index",
+            "demand"
+        ],
+        "time": 979019760
+    },
+    {
+        "receiver": [
+            "mark.schlueter@enron.com"
+        ],
+        "sender": "v.weldon@enron.com",
+        "sentiment": 0.9629,
+        "tags": [
+            "capital_flight",
+            "consumer_confidence",
+            "consumer_spending"
+        ],
+        "time": 979187460
+    },
+    {
+        "receiver": [
+            "james.weitekamp@enron.com"
+        ],
+        "sender": "tracy.geaccone@enron.com",
+        "sentiment": 0.6705,
+        "tags": [
+            "build-out",
+            "business_continuity",
+            "consumer_confidence"
+        ],
+        "time": 982697880
+    },
+    {
+        "receiver": [
+            "colleen.sullivan@enron.com"
+        ],
+        "sender": "chris.germany@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "commodity",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 982747320
+    },
+    {
+        "receiver": [
+            "judy.townsend@enron.com",
+            "scott.goodell@enron.com",
+            "dan.junek@enron.com"
+        ],
+        "sender": "chris.germany@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "commodity",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 982821180
+    },
+    {
+        "receiver": [
+            "vkaminski@aol.com"
+        ],
+        "sender": "vince.kaminski@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "buyer",
+            "consumer_confidence",
+            "coupon"
+        ],
+        "time": 983453340
+    },
+    {
+        "receiver": [
+            "sivy@listserv.pathfinder.com"
+        ],
+        "sender": "sivy@listserv.pathfinder.com",
+        "sentiment": -0.8344,
+        "tags": [
+            "business",
+            "cash_flow",
+            "consumer_confidence"
+        ],
+        "time": 987593460
+    },
+    {
+        "receiver": [
+            "sivy@listserv.pathfinder.com"
+        ],
+        "sender": "moneyadm2@timeinc.net",
+        "sentiment": -0.8028,
+        "tags": [
+            "business",
+            "cash_flow",
+            "consumer_confidence"
+        ],
+        "time": 987636660
+    },
+    {
+        "receiver": [
+            "alewis@ect.enron.com"
+        ],
+        "sender": "timely-invest@mail-list.com",
+        "sentiment": 0.9995,
+        "tags": [
+            "cash_flow",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 988454069
+    },
+    {
+        "receiver": [
+            "richard.shapiro@enron.com"
+        ],
+        "sender": "nicholas.oday@enron.com",
+        "sentiment": 0.368,
+        "tags": [
+            "consumer",
+            "consumer_confidence",
+            "consumer_protection"
+        ],
+        "time": 988704360
+    },
+    {
+        "receiver": [
+            "sivy@listserv.pathfinder.com"
+        ],
+        "sender": "sivy@listserv.pathfinder.com",
+        "sentiment": 0.9929,
+        "tags": [
+            "balance_of_payments",
+            "cash_flow",
+            "consumer_confidence"
+        ],
+        "time": 988981740
+    },
+    {
+        "receiver": [
+            "sivy@listserv.pathfinder.com"
+        ],
+        "sender": "moneyadm2@timeinc.net",
+        "sentiment": 0.9932,
+        "tags": [
+            "balance_of_payments",
+            "cash_flow",
+            "consumer_confidence"
+        ],
+        "time": 989024940
+    },
+    {
+        "receiver": [
+            "jwillia@enron.com"
+        ],
+        "sender": "1.10043390.-2@multexinvestornetwork.com",
+        "sentiment": 0.9992,
+        "tags": [
+            "business",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 989456827
+    },
+    {
+        "receiver": [
+            "christopher.calger@enron.com"
+        ],
+        "sender": "jeff.dasovich@enron.com",
+        "sentiment": 0.8402,
+        "tags": [
+            "carbon_credit",
+            "consumer_confidence",
+            "credit_card"
+        ],
+        "time": 990012780
+    },
+    {
+        "receiver": [
+            "editorconsensus@aol.com"
+        ],
+        "sender": "editorconsensus@aol.com",
+        "sentiment": 0.9887,
+        "tags": [
+            "bond_market",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 991227956
+    },
+    {
+        "receiver": [
+            "jeff.dasovich@enron.com"
+        ],
+        "sender": "schwabalerts.marketupdates@schwab.com",
+        "sentiment": -0.9924,
+        "tags": [
+            "business-to-business",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 991377480
+    },
+    {
+        "receiver": [
+            "ted.murphy@enron.com"
+        ],
+        "sender": "rick.buy@enron.com",
+        "sentiment": 0.128,
+        "tags": [
+            "capital_market",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 992537328
+    },
+    {
+        "receiver": [
+            "richard.shapiro@enron.com"
+        ],
+        "sender": "aleck.dadson@enron.com",
+        "sentiment": 0.9591,
+        "tags": [
+            "capital_expenditure",
+            "commodity",
+            "consumer_confidence"
+        ],
+        "time": 992994060
+    },
+    {
+        "receiver": [
+            "alan.comnes@enron.com"
+        ],
+        "sender": "bill.williams@enron.com",
+        "sentiment": 0.4404,
+        "tags": [
+            "commodity",
+            "consumer_confidence",
+            "consumer_spending"
+        ],
+        "time": 994178767
+    },
+    {
+        "receiver": [
+            "r.conner@enron.com",
+            "bob.crane@enron.com",
+            "james.bryja@enron.com",
+            "jay.boudreaux@enron.com",
+            "cecil.stapley@enron.com",
+            "t.robinson@enron.com",
+            "teresa.aguilera-peon@enron.com",
+            "dirk.dimitry@enron.com",
+            "david.allan@enron.com",
+            "e.carter@enron.com",
+            "craig.rickard@enron.com",
+            "greg.bruch@enron.com",
+            "finley.biggerstaff@enron.com"
+        ],
+        "sender": "monika.causholli@enron.com",
+        "sentiment": 0.6597,
+        "tags": [
+            "cellulosic_ethanol",
+            "commodity",
+            "consumer_confidence"
+        ],
+        "time": 997184585
+    },
+    {
+        "receiver": [
+            "r.conner@enron.com",
+            "bob.crane@enron.com",
+            "danilo.juvane@enron.com",
+            "james.bryja@enron.com",
+            "morela.hernandez@enron.com",
+            "jay.boudreaux@enron.com",
+            "cecil.stapley@enron.com",
+            "t.robinson@enron.com",
+            "teresa.aguilera-peon@enron.com",
+            "dirk.dimitry@enron.com",
+            "david.allan@enron.com",
+            "e.carter@enron.com",
+            "craig.rickard@enron.com",
+            "greg.bruch@enron.com",
+            "finley.biggerstaff@enron.com"
+        ],
+        "sender": "monika.causholli@enron.com",
+        "sentiment": 0.9787,
+        "tags": [
+            "at_the_time",
+            "commodity",
+            "consumer_confidence"
+        ],
+        "time": 998565000
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1000801834
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1000888234
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1000974601
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001061016
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001147413
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001233821
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001320217
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001406617
+    },
+    {
+        "receiver": [
+            "r.conner@enron.com",
+            "bob.crane@enron.com",
+            "daniel.ferrell@enron.com",
+            "michelle.bruce@enron.com",
+            "danilo.juvane@enron.com",
+            "james.bryja@enron.com",
+            "morela.hernandez@enron.com",
+            "jay.boudreaux@enron.com",
+            "cecil.stapley@enron.com",
+            "t.robinson@enron.com",
+            "teresa.aguilera-peon@enron.com",
+            "dirk.dimitry@enron.com",
+            "david.allan@enron.com",
+            "e.carter@enron.com",
+            "craig.rickard@enron.com",
+            "greg.bruch@enron.com",
+            "finley.biggerstaff@enron.com",
+            "tom.bruce-jones@enron.com",
+            "joern.schmidt@enron.com",
+            "jonathan.schube@enron.com",
+            "jeff.kabel@enron.com"
+        ],
+        "sender": "monika.causholli@enron.com",
+        "sentiment": 0.4497,
+        "tags": [
+            "commodity",
+            "consumer_confidence",
+            "current_account"
+        ],
+        "time": 1001411568
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001493019
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001579434
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001665805
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001752205
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001838625
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1001925025
+    },
+    {
+        "receiver": [
+            "jordan.larimore@lehman.com",
+            "larimore@enron.com"
+        ],
+        "sender": "david.morris@lehman.com",
+        "sentiment": 0.9997,
+        "tags": [
+            "book_value",
+            "commodity",
+            "consumer_confidence"
+        ],
+        "time": 1001954715
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002011437
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002097826
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002270603
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002357045
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002443405
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002616218
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002789033
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002875444
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1002961829
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1003048236
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1003158768
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1003221028
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1003307415
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": 0.962,
+        "tags": [
+            "balance_of_payments",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 1003435934
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1003480215
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1003566627
+    },
+    {
+        "receiver": [
+            "j.kaminski@enron.com"
+        ],
+        "sender": "gwyn.koepke@enron.com",
+        "sentiment": 0.368,
+        "tags": [
+            "balance_of_payments",
+            "competitiveness",
+            "consumer_confidence"
+        ],
+        "time": 1003958434
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004085028
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004257848
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004347847
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004434226
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004520625
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004607029
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004693403
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004779804
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004869848
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1004956235
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005129004
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005388200
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005475261
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005561061
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005647451
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005733838
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005906605
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1005993028
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006079431
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006165825
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006252225
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": 0.6442,
+        "tags": [
+            "balance_of_payments",
+            "competitiveness",
+            "consumer_confidence"
+        ],
+        "time": 1006335736
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006338618
+    },
+    {
+        "receiver": [
+            "jeff.dasovich@enron.com"
+        ],
+        "sender": "schwabalerts.marketupdates@schwab.com",
+        "sentiment": 0.9958,
+        "tags": [
+            "business",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 1006342353
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006425003
+    },
+    {
+        "receiver": [
+            "harora@ect.enron.com"
+        ],
+        "sender": "holger.fahrinkrug@ubsw.com",
+        "sentiment": 0.6019,
+        "tags": [
+            "commodity",
+            "consumer_confidence",
+            "consumer_spending"
+        ],
+        "time": 1006508699
+    },
+    {
+        "receiver": [
+            "harora@ect.enron.com"
+        ],
+        "sender": "holger.fahrinkrug@ubsw.com",
+        "sentiment": 0.8169,
+        "tags": [
+            "consumer_confidence",
+            "consumer_spending",
+            "demand"
+        ],
+        "time": 1006509063
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006511435
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006597833
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006684226
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006770603
+    },
+    {
+        "receiver": [
+            "dl-equity@enron.com"
+        ],
+        "sender": "fvictoria@isigrp.com",
+        "sentiment": 0.991,
+        "tags": [
+            "capital_market",
+            "consumer_confidence",
+            "consumer_spending"
+        ],
+        "time": 1006779184
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006857036
+    },
+    {
+        "receiver": [
+            "stephanie.mcginnis@enron.com"
+        ],
+        "sender": "louise.kitchen@enron.com",
+        "sentiment": 0.3182,
+        "tags": [
+            "afternoon_(newspaper)",
+            "biweekly",
+            "consumer_confidence"
+        ],
+        "time": 1006875134
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1006943433
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007029803
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007116204
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007202631
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007289033
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007375404
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007461835
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007548235
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007634626
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007721033
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007807428
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007893825
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "thomas.lowell@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1007980224
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008066625
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008153023
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008239424
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008325823
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008412239
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008498624
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008585026
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008671417
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008757821
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008844221
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1008930631
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009017017
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009103425
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009189800
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009276228
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009362623
+    },
+    {
+        "receiver": [
+            "tx-industrial-info-res@businesswire.com"
+        ],
+        "sender": "emaildelivery@businesswire.com",
+        "sentiment": 0.9875,
+        "tags": [
+            "business",
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 1009363285
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009449000
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009535424
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009621949
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009708347
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009794749
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009881149
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1009967609
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010053949
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010140359
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010226724
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010313168
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010399525
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010485973
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010572348
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010658781
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010745169
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010831555
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1010917923
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011004356
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011090723
+    },
+    {
+        "receiver": [
+            "vkamins@enron.com"
+        ],
+        "sender": "mckinseyquarterly@adm.chtah.com",
+        "sentiment": 0.996,
+        "tags": [
+            "business",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 1011101378
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011177147
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": 0.9331,
+        "tags": [
+            "abenomics",
+            "balance_of_payments",
+            "consumer_confidence"
+        ],
+        "time": 1011217083
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011263555
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011349956
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011436325
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011522756
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011609156
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011695553
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011781971
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011868325
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1011954723
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012041180
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012127558
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": 0.7992,
+        "tags": [
+            "capital_market",
+            "consumer_confidence",
+            "current_account"
+        ],
+        "time": 1012170713
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012213953
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012300336
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012386756
+    },
+    {
+        "receiver": [
+            "kristin.albrecht@enron.com"
+        ],
+        "sender": "kam.keiser@enron.com",
+        "sentiment": 0.0,
+        "tags": [
+            "benchmark_price",
+            "capitalization-weighted_index",
+            "consumer_confidence"
+        ],
+        "time": 1012413668
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012473149
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012559545
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012645951
+    },
+    {
+        "receiver": [
+            "alewis@enron.com"
+        ],
+        "sender": "timely-invest@mail-list.com",
+        "sentiment": 0.9997,
+        "tags": [
+            30,
+            "consumer",
+            "consumer_confidence"
+        ],
+        "time": 1012649446
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012732375
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012818757
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012905146
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": 0.9633,
+        "tags": [
+            "balance_of_payments",
+            "competitiveness",
+            "consumer_confidence"
+        ],
+        "time": 1012989287
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1012991524
+    },
+    {
+        "receiver": [
+            "kevin.cline@enron.com",
+            "ryan.williams@enron.com",
+            "juan.padron@enron.com",
+            "eric.saibi@enron.com",
+            "seung-taek.oh@enron.com"
+        ],
+        "sender": "al@friedwire.com",
+        "sentiment": 0.5411,
+        "tags": [
+            "aggregate_data",
+            "consumer_confidence",
+            "data"
+        ],
+        "time": 1013077947
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": -0.9501,
+        "tags": [
+            "commodity",
+            "consumer_confidence",
+            "consumer_spending"
+        ],
+        "time": 1013420553
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": -0.9871,
+        "tags": [
+            "business",
+            "capital_market",
+            "consumer_confidence"
+        ],
+        "time": 1014284977
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": 0.98,
+        "tags": [
+            "capital_market",
+            "cash_flow",
+            "consumer_confidence"
+        ],
+        "time": 1014930635
+    },
+    {
+        "receiver": [
+            "sara.shackleton@enron.com"
+        ],
+        "sender": "info@forexnews.com",
+        "sentiment": 0.8724,
+        "tags": [
+            "capital_market",
+            "consumer_confidence",
+            "cost_of_capital"
+        ],
+        "time": 1015190494
+    }
+]

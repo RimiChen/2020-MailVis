@@ -79,41 +79,81 @@ var monthList = [
 //normal_blocks
 
     var partWidth = 1200;
-    var partHeight = 150;
+    var partHeight = 180;
 
 
 
-for(var i = 0; i < nameList.length; i++){
+// for(var i = 0; i < nameList.length; i++){
 
     
-    var out = VIS_E.drawBlock("mid_main_frame", labelList, "1/1/2020", partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
-    element_index_count = out.index;
-    element_index_count = element_index_count + 1;
-    //console.log(element_index_count);
-}
+//     var out = VIS_E.drawBlock("mid_main_frame", labelList, "1/1/2020", partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
+//     element_index_count = out.index;
+//     element_index_count = element_index_count + 1;
+//     //console.log(element_index_count);
+// }
 
 
-$.getJSON('https://RimiChen.github.io/MailDataVisualization/MailData/Real/enron_mail_20150507.json', function(data) {
+$.getJSON('/data/data_in_year_1999_2002.json', function(data) {
     
     var mail_data = [];
     mail_data = data;
+    console.log(mail_data)
 
-    for(var i = 0; i < nameList.length; i++){
+    var mail_name_list = [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ] 
 
-    
-        var out = VIS_E.drawBlock("mid_main_frame", labelList, "1/1/2020", partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
+    var mail_label_list = [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+    ]
+    var mail_number_List = {}
+  
+    for(var i = 0; i< mail_name_list.length; i++){
+        
+        var temp_number_list = [];
+        for(var numberString = 0; numberString <  mail_label_list.length; numberString++){
+            temp_number_list.push(mail_data[i][mail_label_list[numberString]]["0"]);
+            //console.log(mail_data[i][mail_label_list[numberString]]["0"]);
+        }
+        mail_number_List[i] = temp_number_list;
+
+    }
+
+    var color = VIS_E.getRandomColor();   
+    for(var i = 0; i < mail_name_list.length; i++){
+
+        //console.log(mail_number_List[i]);
+ 
+        var out = VIS_E.drawBlock("mid_main_frame", mail_label_list, 21000, mail_number_List[i], color, "Years", partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
         element_index_count = out.index;
         element_index_count = element_index_count + 1;
         //console.log(element_index_count);
     }
 
+    VIS_E.drawFoldBlock("mid_main_frame", mail_label_list, mail_name_list, mail_number_List, partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
+
+    
 });
 
 
 
 //fold blocks
 //function drawFoldBlock(parent_frame, labelList, barList, width, height, z, currentIndex, clickCallBack, callBackArgs)
-var out = VIS_E.drawFoldBlock("mid_main_frame", labelList, nameList, partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
+//var out = VIS_E.drawFoldBlock("mid_main_frame", labelList, nameList, partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
 
 //VIS_E.mapColorNumber(10, 0, 100, 32, [255, 0, 0]);
 //drawTableColmn(parent_frame, numberList, min, max, width, height, top, left, basicColor, label, clickCallBack, callBackArgs)
