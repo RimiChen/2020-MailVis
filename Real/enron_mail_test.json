@@ -1,0 +1,81 @@
+[
+ {
+  "receiver": [
+   "jeffrey.hodge@enron.com",
+   "jennifer.fraser@enron.com"
+  ],
+  "sender": "mark.taylor@enron.com",
+  "sentiment": 0.2023,
+  "tags": [
+   "and_that",
+   "answer",
+   "buyer"
+  ],
+  "time": 915434460
+ },
+ {
+  "receiver": [
+   "tana.jones@enron.com"
+  ],
+  "sender": "mark.taylor@enron.com",
+  "sentiment": 0.0,
+  "tags": [],
+  "time": 915441060
+ },
+ {
+  "receiver": [
+   "scott.sefton@enron.com"
+  ],
+  "sender": "mark.taylor@enron.com",
+  "sentiment": 0.9708,
+  "tags": [
+   "actually",
+   "and_i",
+   "and_that"
+  ],
+  "time": 915527040
+ },
+ {
+  "receiver": [
+   "jenny.helton@enron.com"
+  ],
+  "sender": "mark.taylor@enron.com",
+  "sentiment": 0.9313,
+  "tags": [
+   "actually",
+   "and_i",
+   "and_that"
+  ],
+  "time": 915537240
+ },
+ {
+  "receiver": [
+   "scott.sefton@enron.com"
+  ],
+  "sender": "mark.taylor@enron.com",
+  "sentiment": 0.9159,
+  "tags": [
+   "about",
+   "actually",
+   "and_that"
+  ],
+  "time": 915604500
+ },
+ {
+  "receiver": [
+   "dale.neuner@enron.com",
+   "jefferson.sorenson@enron.com",
+   "gail.hill@enron.com",
+   "paul.wallace@enron.com",
+   "brigitta.millard@enron.com"
+  ],
+  "sender": "paul.simons@enron.com",
+  "sentiment": 0.9562,
+  "tags": [
+   "and_that",
+   "apply",
+   "at_the_time"
+  ],
+  "time": 915625800
+ }
+]

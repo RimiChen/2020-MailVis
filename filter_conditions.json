@@ -1,0 +1,14 @@
+[
+    {
+        "label": "time",
+        "not_flag": false,
+        "operator": ">",
+        "value": "01/12/2001"
+    },
+    {
+        "label": "time",
+        "not_flag": false,
+        "operator": "<",
+        "value": "31/12/2001"
+    }
+]

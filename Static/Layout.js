@@ -2,6 +2,7 @@ import GraphData, * as GRAPHDATA from "./GraphData.js"
 import * as VIS_E from "./Vis_element.js"
 
 
+
 // The main program start in here
 // to prevent duplicate index
 var element_index_count = 0;
@@ -79,14 +80,36 @@ var monthList = [
 
     var partWidth = 1200;
     var partHeight = 150;
-// for(var i = 0; i < nameList.length; i++){
+
+
+
+for(var i = 0; i < nameList.length; i++){
 
     
-//     var out = VIS_E.drawBlock("mid_main_frame", labelList, "1/1/2020", partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
-//     element_index_count = out.index;
-//     element_index_count = element_index_count + 1;
-//     //console.log(element_index_count);
-// }
+    var out = VIS_E.drawBlock("mid_main_frame", labelList, "1/1/2020", partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
+    element_index_count = out.index;
+    element_index_count = element_index_count + 1;
+    //console.log(element_index_count);
+}
+
+
+$.getJSON('https://RimiChen.github.io/MailDataVisualization/MailData/Real/enron_mail_20150507.json', function(data) {
+    
+    var mail_data = [];
+    mail_data = data;
+
+    for(var i = 0; i < nameList.length; i++){
+
+    
+        var out = VIS_E.drawBlock("mid_main_frame", labelList, "1/1/2020", partWidth, partHeight, 2, element_index_count, graphdata.testFunction, []);
+        element_index_count = out.index;
+        element_index_count = element_index_count + 1;
+        //console.log(element_index_count);
+    }
+
+});
+
+
 
 //fold blocks
 //function drawFoldBlock(parent_frame, labelList, barList, width, height, z, currentIndex, clickCallBack, callBackArgs)
@@ -99,12 +122,22 @@ var rowHeight = 30;
 var labelShift = 100;
 var topShift = 200;
 
-// draw selection table
-for(var i = 0; i < numberList.length; i++){
-    var number = Math.floor(30/numberList.length);
-    VIS_E.drawClickableTextLabel("mid_main_frame", i+65536, i*rowHeight+topShift, 0, 2, (i*number+1)+"~"+(i*number+number), 15, graphdata.testFunction, [])
-}
 
-for(var i = 0; i< monthList.length; i++){
-    VIS_E.drawTableColmn("mid_main_frame", numberList, 0, 100, columnWidth, rowHeight, topShift, i*columnWidth+labelShift, [12, 134, 0], monthList[i], graphdata.testFunction, []);
-}
+// data processing ahead of visualization
+
+
+
+// draw selection table
+// for(var i = 0; i < numberList.length; i++){
+//     var number = Math.floor(30/numberList.length);
+//     VIS_E.drawClickableTextLabel("mid_main_frame", i+65536, i*rowHeight+topShift, 0, 2, (i*number+1)+"~"+(i*number+number), 15, graphdata.testFunction, [])
+// }
+
+
+
+
+
+// for(var i = 0; i< monthList.length; i++){
+//     VIS_E.drawTableColmn("mid_main_frame", numberList, 0, 100, columnWidth, rowHeight, topShift, i*columnWidth+labelShift, [12, 134, 0], monthList[i], graphdata.testFunction, []);
+// }
+

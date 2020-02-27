@@ -5,6 +5,7 @@ import json
 from collections import namedtuple
 import sys
 import re
+import DataProcessing as DATA_P
 
 
 app = Flask(__name__)
@@ -35,6 +36,11 @@ def add_header(r):
 @app.route("/")
 def index():
     print("Start from filter")
+    DATA_P.testFunction()
+    data = DATA_P.loadAllData("./Real/enron_mail_20150507.json", "time:>:01/12/2001|time:<:31/12/2001")
+    #DATA_P.loadAllData("./Real/enron_mail_test.json", "tags:=:and_that|time:<:967008240|sentiment:>:0.5")
+
+    # passing data
     return render_template(
         'out_frame.html')  
 
