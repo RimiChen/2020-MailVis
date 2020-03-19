@@ -1,0 +1,27 @@
+#table_frame{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    background-color: rgb(29, 4, 255);
+    overflow-x: hidden;
+}
+#table_frame{
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(182, 178, 240);
+    overflow-x: hidden;
+}
+#table_frame{
+    height: 100%;
+    width: 80%;
+    position: absolute;
+    top: 0;
+    left: 20%;
+    background-color: rgb(73, 70, 255);
+    overflow-x: hidden;
+}

@@ -2,6 +2,7 @@ import math
 import json
 import time
 from datetime import datetime
+from collections import OrderedDict
 
 
 def testFunction():
@@ -86,6 +87,113 @@ def countDateAmount(data):
         
     
 
+
+def countDataWithAttritube(data, attritube):
+    new_dic = {}
+    
+    for record in data:
+        if type(record[attritube]) is list:
+            for sub_part in record[attritube]:
+                if sub_part in new_dic:
+                    new_dic[sub_part].append(record)
+                
+                else:
+                    new_dic[sub_part] = []
+                    new_dic[sub_part].append(record)
+        else:
+            if record[attritube] in new_dic:
+                new_dic[record[attritube]].append(record)
+                
+            else:
+                new_dic[record[attritube]] = []
+                new_dic[record[attritube]].append(record)
+    
+    
+    
+    print("count with "+str(attritube))
+    return new_dic
+
+def countNumber(data):
+    number_dic = {}
+    
+    for record in data:
+        number_dic[record] = len(data[record])
+    
+    return number_dic
+
+def loadPartData(dataPath):
+    print("SYSTEM: load all data in here")
+    
+        
+
+    with open(dataPath) as json_file:
+        json_data = json.load(json_file)
+        
+        dataWithAttritube = countDataWithAttritube(json_data, "tags")
+        
+        out_file = open("data_with_attritube.json", "w")
+        # magic happens here to make it pretty-printed
+        out_file.write(json.dumps(dataWithAttritube, indent=4))
+        out_file.close()    
+        #print(json.dumps(dateAmount, indent=4, sort_keys=True))
+
+        numberAttritube = countNumber(dataWithAttritube)
+        #numberAttritube = OrderedDict(sorted(numberAttritube.items(), key=lambda x: x[1]))
+        numberAttritube = OrderedDict(sorted(numberAttritube.items(), key=lambda x: x[1], reverse = True))
+       
+         
+        out_file = open("data_with_attritube_number.json", "w")
+        # magic happens here to make it pretty-printed
+        out_file.write(json.dumps(numberAttritube, indent=4))
+        out_file.close()
+        
+        ranked_data = getRanking(numberAttritube, 10)
+        
+        out_file = open("data_with_attritube_rank.json", "w")
+        # magic happens here to make it pretty-printed
+        out_file.write(json.dumps(ranked_data, indent=4))
+        out_file.close()        
+        
+               
+
+    return dataWithAttritube
+
+
+def getRangeCount(dataArray, min, max, numberSlots):
+    ## separate the whole period to small ranges and count the numbers
+    print("SYSTEM: cut the ranges")
+    
+    ## get the labels first
+    
+    mail_label_list = {}
+    
+    for count in range(numberSlots):
+        range_label = count*(max-min)/numberSlots + min
+        mail_label_list[range_label] = 0
+    
+    #for record in dataArray:
+
+def getRanking(dataArray, top_number):
+    ## assume the data is in descending order and return the top_number of items
+    ignore_list = [
+        "and_that",
+        "actually",
+        "and_i",
+        "1",
+        1,
+        17,
+        "..._you",
+    ]
+    
+    tail = len(dataArray)
+    
+    rank_data = {}
+    
+    for record in dataArray:
+        if record not in ignore_list and len(rank_data) < top_number:
+            rank_data[record] = dataArray[record]
+            
+    return rank_data
     
 def loadAllData(dataPath, filterString):
     print("SYSTEM: load all data in here")
@@ -109,12 +217,14 @@ def loadAllData(dataPath, filterString):
         
         test_count = 0
         dateAmount = countDateAmount(json_data)
-        #print(json.dumps(dateAmount, indent=4, sort_keys=True))
 
         out_file = open("date_with_email_number.json", "w")
         # magic happens here to make it pretty-printed
         out_file.write(json.dumps(dateAmount, indent=4, sort_keys=True))
         out_file.close()    
+        
+
+     
         
         ## use to generate data for table
         

@@ -41,11 +41,11 @@ export function drawClickableCanvas(parent_frame, index, width, height, top, lef
     parent.appendChild(canvas);
     // below is optional
 }
-export function drawClickableTextLabel(parent_frame, index, top, left, z, text, textsize, clickCallBack, callBackArgs){
+export function drawClickableTextLabel(parent_frame, index, top, left, z, text, textsize, width, clickCallBack, callBackArgs){
     var canvas = document.createElement('canvas');
 
     canvas.id = "canvas"+index;
-    canvas.width = 100;
+    canvas.width = width;
     canvas.height =  textsize;
     canvas.style.top = top;
     //console.log(top)
@@ -62,7 +62,7 @@ export function drawClickableTextLabel(parent_frame, index, top, left, z, text, 
 
     ctx.font = "normal "+textsize+"px Arial";
     var txt = text;
-    canvas.width = ctx.measureText(txt).width +10;
+    //canvas.width = ctx.measureText(txt).width +10;
     ctx.fillText(txt, 5, 10);
     //ctx.fillRect(left, top, canvas.width, canvas.height);
     //console.log("w: "+ canvas.width+", h: "+canvas.height);
@@ -94,6 +94,51 @@ export function drawClickableTextColorLabel(parent_frame, index, width, height, 
     canvas.style.left = left;    
     canvas.style.zIndex = z;
     canvas.style.position = "absolute";
+    canvas.style.border = "1px solid";
+
+    var ctx = canvas.getContext("2d");
+   
+    //var size = textsize +"px";
+    //ctx.fontsize = textsize;
+
+
+    ctx.font = "normal "+textsize+"px Arial";
+
+    ctx.fillStyle = color;
+    //console.log(color);
+    //console.log(typeof(color));
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = "rgba(0, 0, 0, 1)";
+    var txt = text;
+    ctx.fillText(txt, 10, 20);
+    //ctx.fillRect(left, top, canvas.width, canvas.height);
+    //console.log("w: "+ canvas.width+", h: "+canvas.height);
+
+    // Add event listener for `click` events.
+    var canvasLeft = canvas.offsetLeft;
+    var canvasTop = canvas.offsetTop;
+    //var context = canvas.getContext('2d');
+   
+    canvas.addEventListener('click', function(event) {
+        var x = event.pageX - canvasLeft,
+            y = event.pageY - canvasTop;
+
+            //console.log(canvas.id+": ("+x+", "+y+")");
+          clickCallBack.apply(this, callBackArgs);
+    }, false);    
+
+    var parent = document.getElementById(parent_frame); ;
+    parent.appendChild(canvas);
+}
+export function drawClickableTag(parent_frame, index, width, height, top, z, text, textsize, color, clickCallBack, callBackArgs){
+    var canvas = document.createElement('canvas');
+
+    canvas.id = "canvasTextColor"+index;
+    canvas.width = width;
+    canvas.height =  height;
+    canvas.style.top = top;
+    canvas.style.zIndex = z;
+    canvas.style.display = "inline-block";
     canvas.style.border = "1px solid";
 
     var ctx = canvas.getContext("2d");
@@ -239,7 +284,7 @@ export function drawBlock(parent_frame, labelList, max_number, number_list, colo
     for(var i = 0; i <number; i++){
 
         //console.log(newDiv_top)
-        drawClickableTextLabel(newDiv.id, currentIndex  , newDiv_top+5, i*slotWidth+offset, 2, labelList[i], 15,  testFunction, []);
+        drawClickableTextLabel(newDiv.id, currentIndex  , newDiv_top+5, i*slotWidth+offset, 2, labelList[i], 15, width/number-10, testFunction, []);
         currentIndex = currentIndex + 1;
     }
     //add bars
@@ -359,7 +404,7 @@ export function mapColorNumber(numberOfChunk, minNumber, maxNumber, number, basi
 export function drawTableColmn(parent_frame, numberList, min, max, width, height, top, left, basicColor, label, clickCallBack, callBackArgs){
     
     var textsize = 15;
-    drawClickableTextLabel(parent_frame, 0, top - textsize-5, left, 2, label, textsize, clickCallBack, callBackArgs);
+    drawClickableTextLabel(parent_frame, 0, top - textsize-5, left, 2, label, textsize, width, clickCallBack, callBackArgs);
     for(var i = 0; i < numberList.length; i++){
         var min = min;
         var max = max;

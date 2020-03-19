@@ -13,30 +13,39 @@
         <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
         
 		
-        <script type="module" src="{{url_for('static',filename='Layout.js')}}"></script>
+        <!--<script type="module" src="{{url_for('static',filename='Layout.js')}}"></script>-->
+
+		<script>
+			$(document).ready(function(){
+				console.log("reload first page");
+				//var conditions = localStorage.getItem('recordConditionText');
+				var conditions = "test conditions passing varialbes"
+				$.post( "/postmethod", {
+					javascript_data: conditions 
+				});
+				
+				//$('#mid_all_frame').load("./table.html");
+				$('#mid_all_frame').load("./layout.html");
+				$('#top_frame').load("./filter.html");
+			});
+
+
+		</script>		
 		
 	</head>
 	<body>
 		<div id="main_interface">
+
+
 			<div id ="top_frame">
                 <div id ="tag_frame">
-                    
                 </div>            
 			</div>
 			<div id ="top_line_frame">
 			</div>
 
             <!-- content in here-->
-			<div id ="mid_frame">
-                <!-- left inforamtion bar and labels -->>
-                <div id ="mid_left_frame">
-                    
-                </div>
-                <!-- main visualization-->
-                <div id ="mid_main_frame">
-                    
-                </div>
-
+			<div id ="mid_all_frame">
             </div>
 
             <!-- button and copy right-->

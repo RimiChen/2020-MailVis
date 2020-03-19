@@ -1,0 +1,27 @@
+#top_filter_frame{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    background-color: rgb(0, 141, 59);
+    overflow-x: hidden;
+}
+#top_left_frame{
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(136, 212, 159);
+    overflow-x: hidden;
+}
+#top_main_frame{
+    height: 100%;
+    width: 80%;
+    position: absolute;
+    top: 0;
+    left: 20%;
+    background-color: rgb(45, 150, 76);
+    overflow-x: hidden;
+}

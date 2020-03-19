@@ -1,6 +1,18 @@
 [
     {
-        "label": "tags",
+        "label": "time",
+        "not_flag": false,
+        "operator": ">",
+        "value": "01/11/2001"
+    },
+    {
+        "label": "time",
+        "not_flag": false,
+        "operator": "<",
+        "value": "30/11/2001"
+    },
+    {
+        "label": "tag",
         "not_flag": false,
         "operator": "=",
         "value": "buyer"

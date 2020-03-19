@@ -33,16 +33,44 @@ def add_header(r):
 """
 ## render webpages
 
+def processData(filePath, conditionString):
+    data = DATA_P.loadAllData(filePath,conditionString)    
+    
+
+
 @app.route("/")
 def index():
     print("Start from filter")
     #DATA_P.testFunction()
-    data = DATA_P.loadAllData("./Real/enron_mail_20150507.json", "tags:=:buyer")
+    data = processData("./Real/enron_mail_20150507.json", "time:>:01/06/2001|time:<:30/06/2001")
+    part_data =  DATA_P.loadPartData("./data/filtered_data_12_2001.json")
+    #data = DATA_P.loadAllData("./data/filtered_data_11_2001.json", "")
     #DATA_P.loadAllData("./Real/enron_mail_test.json", "tags:=:and_that|time:<:967008240|sentiment:>:0.5")
 
     # passing data
     return render_template(
         'out_frame.html')  
+    
+@app.route("/layout.html")  
+def layout():
+    print("Start layout")
+    # passing data
+    return render_template(
+        'layout.html')  
+
+@app.route("/filter.html")  
+def filter():
+    print("Start filter")
+    # passing data
+    return render_template(
+        'filter.html')
+    
+@app.route("/table.html")  
+def table():
+    print("Start from table view")
+    # passing data
+    return render_template(
+        'table.html')        
 
 ## route images and data
 @app.route("/images/<path:path>")
@@ -53,7 +81,20 @@ def send_images(path):
 def send_data(path):
     return send_from_directory('Data', path)
 
+@app.route('/postmethod', methods = ['POST'])
+def get_post_javascript_data():
+    jsdata = request.form['javascript_data']
+    print("=====================")
+    print(jsdata)
+    print("=====================")
 
+    ###preprocessing_text_file(input_file)
+    
+    conditionString = "time:>:01/11/2001|time:<:30/11/2001|tag:=:buyer"
+    filePath = "./Real/enron_mail_20150507.json"
+    data = processData(filePath, conditionString)
+    return render_template(
+        'out_frame.html')
 
 # app starts from here
 if __name__ == "__main__":

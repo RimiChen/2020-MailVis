@@ -37,7 +37,7 @@ border-width: 5px;
     background-color: #000000;
     overflow-x: hidden;
 }
-#mid_frame{
+#mid_all_frame{
     height: 80%;
     width: 100%;
     position: absolute;
@@ -62,23 +62,5 @@ border-width: 5px;
     top: 97%;
     left: 0;
     background-color: rgb(147, 194, 136);
-    overflow-x: hidden;
-}
-#mid_left_frame{
-    height: 100%;
-    width: 20%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #FFFFFF;
-    overflow-x: hidden;
-}
-#mid_main_frame{
-    height: 100%;
-    width: 80%;
-    position: absolute;
-    top: 0;
-    left: 20%;
-    background-color: #FFFFFF;
     overflow-x: hidden;
 }
