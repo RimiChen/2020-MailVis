@@ -20,12 +20,12 @@
 				console.log("reload first page");
 				//var conditions = localStorage.getItem('recordConditionText');
 				var conditions = "test conditions passing varialbes"
-				$.post( "/postmethod", {
+				$.post( "/postmethod_condition", {
 					javascript_data: conditions 
 				});
 				
 				//$('#mid_all_frame').load("./table.html");
-				$('#mid_all_frame').load("./layout.html");
+				$('#mid_all_frame').load("./table.html");
 				$('#top_frame').load("./filter.html");
 			});
 

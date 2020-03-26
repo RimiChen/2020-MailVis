@@ -10,7 +10,7 @@ import DataProcessing as DATA_P
 
 app = Flask(__name__)
 
-
+current_conditions = ""
 
 # URL routing
 ## root directory:  /
@@ -33,8 +33,9 @@ def add_header(r):
 """
 ## render webpages
 
-def processData(filePath, conditionString):
-    data = DATA_P.loadAllData(filePath,conditionString)    
+def processData(original_data, conditionString):
+    #data = DATA_P.loadAllData(filePath,conditionString)    
+    data = DATA_P.loadAllData_V2(original_data,conditionString)
     
 
 
@@ -42,14 +43,38 @@ def processData(filePath, conditionString):
 def index():
     print("Start from filter")
     #DATA_P.testFunction()
-    data = processData("./Real/enron_mail_20150507.json", "time:>:01/06/2001|time:<:30/06/2001")
-    part_data =  DATA_P.loadPartData("./data/filtered_data_12_2001.json")
+    
+    ### load data and save to local  and return the data
+    original_data = DATA_P.getOriginData("./Real/enron_mail_20150507.json")
+    ### get filtered data from original data
+    conditions = "time:>:01/06/2001|time:<:30/06/2001"
+    filtered_data = processData( original_data , conditions)
+    
+    #### count data for selection columns
+    # open("data_in_year.json", "w")
+    
+    #### filtered data with conditions
+    # open("filtered_data.json", "w")
+    
+                                
+    #### save the the column to get selection table                            
+    #selection_table_columns = loadDatafromfiltered(filtered_data)
+    
+    ### write the selected table to json
+    
+            
+    #part_data =  DATA_P.loadPartData("./data/filtered_data_12_2001.json")
+    
+    
+    
     #data = DATA_P.loadAllData("./data/filtered_data_11_2001.json", "")
     #DATA_P.loadAllData("./Real/enron_mail_test.json", "tags:=:and_that|time:<:967008240|sentiment:>:0.5")
 
     # passing data
     return render_template(
-        'out_frame.html')  
+        'out_frame.html')
+    ### in out_frame.html, render order htmls
+      
     
 @app.route("/layout.html")  
 def layout():
@@ -61,6 +86,10 @@ def layout():
 @app.route("/filter.html")  
 def filter():
     print("Start filter")
+    
+    #open("filter_conditions.json", "w")
+    
+    ##### load conditions json to get current conditions
     # passing data
     return render_template(
         'filter.html')
@@ -69,6 +98,10 @@ def filter():
 def table():
     print("Start from table view")
     # passing data
+    # open("data_in_year.json", "w")
+    
+    #### load selected column from json and show the result
+    
     return render_template(
         'table.html')        
 
@@ -81,7 +114,11 @@ def send_images(path):
 def send_data(path):
     return send_from_directory('Data', path)
 
-@app.route('/postmethod', methods = ['POST'])
+@app.route("/<path:path>")
+def send_json(path):
+    return send_from_directory('', path)
+
+@app.route('/postmethod_condition', methods = ['POST'])
 def get_post_javascript_data():
     jsdata = request.form['javascript_data']
     print("=====================")
@@ -92,12 +129,30 @@ def get_post_javascript_data():
     
     conditionString = "time:>:01/11/2001|time:<:30/11/2001|tag:=:buyer"
     filePath = "./Real/enron_mail_20150507.json"
-    data = processData(filePath, conditionString)
+    #data = processData(filePath, conditionString)
     return render_template(
         'out_frame.html')
+
+@app.route('/postmethod_selected', methods = ['POST'])
+def get_selected_data():
+    jsdata = request.form['javascript_data']
+    current_conditions = jsdata
+    print("=====================")
+    print(jsdata)
+    print("=====================")
+    print(current_conditions)
+
+    ###preprocessing_text_file(input_file)
+    
+    conditionString = "time:>:01/11/2001|time:<:30/11/2001|tag:=:buyer"
+    filePath = "./Real/enron_mail_20150507.json"
+    #data = processData(filePath, conditionString)
+    return render_template(
+        'filter.html')
+
 
 # app starts from here
 if __name__ == "__main__":
     # record tool log for tracking the system
     
-    app.run(host='0.0.0.0', port=int(sys.argv[1]))
+    app.run(host='0.0.0.0', port=int(5000))

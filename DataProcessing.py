@@ -12,6 +12,15 @@ def testFunction():
     DateTotimeStamp("01/01/1999")
     DateTotimeStamp("01/12/1999")
     
+def getOriginData(file_path):
+    with open(file_path) as json_file:
+        data_list = json.load(json_file)
+        
+    # return a email list
+    return data_list    
+
+
+
 def timeStampToDate(timeStamp):
     date = datetime.fromtimestamp(timeStamp)
     #print("date = " + str(date))
@@ -62,7 +71,35 @@ def generateTimeColumn(dateAmount, assignedYear, assignedMonth, timeSlot):
             dateColumn[no_miss] = 0
 
     return dateColumn            
+ 
+ 
+def generateTimeColumn_V2(date_dictionary, assignedMonth, timeSlot):
+    number_row = math.floor(31 / timeSlot) +1
+    
+    neededYear = date_dictionary
+    dateColumn = {}
+    
+    current_date = 1
+    for date_key in neededYear:
+        date = date_key.split("-")
         
+        # only process date in the assigne month
+        if date[0] == assignedMonth:
+            if math.floor(int(date[1]) / timeSlot) not in dateColumn:
+                dateColumn[math.floor(int(date[1]) / timeSlot)] = {}
+                dateColumn[math.floor(int(date[1]) / timeSlot)]["number"] = 0
+                dateColumn[math.floor(int(date[1]) / timeSlot)]["number"] = dateColumn[math.floor(int(date[1]) / timeSlot)]["number"] + neededYear[date_key]["number"]
+                dateColumn[math.floor(int(date[1]) / timeSlot)]["data"] = []
+                dateColumn[math.floor(int(date[1]) / timeSlot)]["data"].extend(neededYear[date_key]["data"])
+            else:
+                dateColumn[math.floor(int(date[1]) / timeSlot)]["number"] = dateColumn[math.floor(int(date[1]) / timeSlot)]["number"] + neededYear[date_key]["number"]
+                dateColumn[math.floor(int(date[1]) / timeSlot)]["data"].extend(neededYear[date_key]["data"])
+    
+    for no_miss in range(number_row):
+        if no_miss not in dateColumn:
+            dateColumn[no_miss] = 0
+
+    return dateColumn           
     
 
 def countDateAmount(data):
@@ -75,9 +112,16 @@ def countDateAmount(data):
             
             date_key = timeArray["month"] + "-"+timeArray["day"]
             if date_key in dic:
-                dic[date_key] =  dic[date_key] + 1
+                #dic[date_key] =  dic[date_key] + 1
+                dic[date_key]["number"] = dic[date_key]["number"] + 1
+                dic[date_key]["data"].append(mail)
             else:
-                dic[date_key] = 1
+                #dic[date_key] = 1
+                dic[date_key] = {}
+                dic[date_key]["number"] = 1
+                dic[date_key]["data"] = []
+                dic[date_key]["data"].append(mail)
+                
             
             dateAmount[timeArray["year"]] = dic
         else:
@@ -263,6 +307,88 @@ def loadAllData(dataPath, filterString):
 
     return new_data
     
+
+def generateTable(y_number, date_dictionary, year):
+    #### need a dictionary use date as key, number as value
+    
+    #### set default
+    total_time = {}
+    target_year = date_dictionary[year]
+    for month in range(12):
+        #### month string
+        if month<9:
+            month = month +1
+            month = "0"+str(month)
+        else:
+            month = month +1
+            month = str(month)
+
+        timeColumn = generateTimeColumn_V2(target_year, month, y_number)
+        total_time[month] = timeColumn
+
+    
+    
+    
+    ##### DEBUG: to see whether the table column is correct
+    out_file = open("data_in_year.json", "w")
+    # magic happens here to make it pretty-printed
+    out_file.write(json.dumps(total_time, indent=4, sort_keys=True))
+    out_file.close()     
+    
+    return total_time      
+    
+
+def loadAllData_V2(original_data, filterString):
+    print("SYSTEM: load all data in here")
+    
+        
+
+    condition_list = parseFilter(filterString)
+        
+        
+    #### DEBUG: check conditions
+    out_file = open("filter_conditions.json", "w")
+    # magic happens here to make it pretty-printed
+    out_file.write(json.dumps(condition_list, indent=4, sort_keys=True))
+    out_file.close()   
+        
+    json_data = original_data
+    
+    print("SYSTEM: number of total records is " + str(len(json_data)))
+    
+    test_count = 0
+    
+    ### a dictionary using date as keys, number of emails as values, and separate by years
+    dateAmount = countDateAmount(json_data)
+
+    ##### DEBUG: separate data by date 
+    # out_file = open("date_with_email_number.json", "w")
+    # # magic happens here to make it pretty-printed
+    # out_file.write(json.dumps(dateAmount, indent=4, sort_keys=True))
+    # out_file.close()    
+
+    ## use to generate data for table
+    
+    #generateTable(y_number, date_dictionary, year, month):
+    total_time = generateTable(3, dateAmount, "2001")
+                
+    
+    ## use to show current data form
+    for mail in json_data:
+        if test_count < 3:
+            #print(json.dumps(mail, indent=4, sort_keys=True))
+            timeString = timeStampToDate(mail["time"])
+            #print(timeString)
+            test_count = test_count +1
+    new_data = getConstraint_Data(condition_list, json_data)
+    
+    out_file = open("filtered_data.json", "w")
+    # magic happens here to make it pretty-printed
+    out_file.write(json.dumps(new_data, indent=4, sort_keys=True))
+    out_file.close()    
+
+    return new_data
+
 
 def conditionChecking(condition_list, data):
     check_flags = []

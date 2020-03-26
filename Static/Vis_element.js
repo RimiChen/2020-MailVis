@@ -401,15 +401,31 @@ export function mapColorNumber(numberOfChunk, minNumber, maxNumber, number, basi
     return computedColor;
 }
 
-export function drawTableColmn(parent_frame, numberList, min, max, width, height, top, left, basicColor, label, clickCallBack, callBackArgs){
-    
-    var textsize = 15;
-    drawClickableTextLabel(parent_frame, 0, top - textsize-5, left, 2, label, textsize, width, clickCallBack, callBackArgs);
-    for(var i = 0; i < numberList.length; i++){
-        var min = min;
-        var max = max;
-        var color = mapColorNumber(10, min, max, numberList[i], basicColor);
-        drawClickableTextColorLabel(parent_frame, i, width, height, i*height+top, left, 2, numberList[i], 15, color, clickCallBack, callBackArgs);        
-    }
 
+export function reverseColorRGBA(colorString){
+
+    
+    var new_color_s = colorString.replace("rgba(", "");
+    new_color_s = new_color_s.replace(")", "");
+    var splitColor = new_color_s.split(",");
+    splitColor[0] = 256 - splitColor[0];
+    splitColor[1] = 256 - splitColor[1];
+    splitColor[2] = 256 - splitColor[2];
+    splitColor[3] = splitColor[3];
+
+    var newColor = "rgba("+splitColor[0]+","+splitColor[1]+","+splitColor[2]+","+splitColor[3]+")";
+    return newColor
+}
+
+export function getNumberKey(number){
+    
+    var newKey = "0";
+    if(number < 10){
+        newKey = "0" + number.toString();
+    }
+    else{
+        newKey = number.toString();
+    }
+    
+    return newKey
 }
