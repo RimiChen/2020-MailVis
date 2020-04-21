@@ -108,11 +108,11 @@ def table():
 ## route images and data
 @app.route("/images/<path:path>")
 def send_images(path):
-    return send_from_directory('Images', path)
+    return send_from_directory('images', path)
 
 @app.route("/data/<path:path>")
 def send_data(path):
-    return send_from_directory('Data', path)
+    return send_from_directory('data', path)
 
 @app.route("/<path:path>")
 def send_json(path):

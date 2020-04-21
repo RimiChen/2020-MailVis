@@ -6,27 +6,27 @@
 		<!-- CSS style file -->
 		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
-		<link rel="stylesheet" href="{{url_for('static',filename='./css/table.css')}}">
+		<link rel="stylesheet" href="{{url_for('static',filename='./css/filter.css')}}">
 
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 		<script type="text/javascript" src="https://requirejs.org/docs/release/2.3.5/minified/require.js"></script>
         <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
         
 		
-        <script type="module" src="{{url_for('static',filename='table.js')}}"></script>
+        <script type="module" src="{{url_for('static',filename='./js/filter.js')}}"></script>
 		
 	</head>
 	<body>
-        <div id ="table_frame">
+        <div id ="top_filter_frame">
             <!-- left inforamtion bar and labels -->>
-            <div id ="table_left_frame">
-                
+            <div id ="top_left_frame">
+                <label for="fcondition">Add filter:</label>
+                <input type="text" id="fcondition" name="filter_box">
             </div>
             <!-- main visualization-->
-            <div id ="table_main_frame">
+            <div id ="top_main_frame">
                 
             </div>
-            
 
         </div>
 	</body>
