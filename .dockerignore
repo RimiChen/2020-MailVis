@@ -1,0 +1,21 @@
+# git
+.git/
+.gitignore
+.gitattributes
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+env/
+venv/
+virtual/
+
+# Editors
+.vscode
+
+# Google Cloud
+app.yaml
+.gcloudignore
+appengine_config.py

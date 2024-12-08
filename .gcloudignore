@@ -12,6 +12,7 @@
 # below:
 .git
 .gitignore
+.gitattributes
 
 # Python pycache:
 __pycache__/
@@ -22,3 +23,7 @@ __pycache__/
 env/
 venv/
 virtual/
+
+# Docker
+Dockerfile
+.dockerignore
